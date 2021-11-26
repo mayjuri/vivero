@@ -1,0 +1,29 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 25px;
+    background-color: white;
+}
+
+nav ul li {
+    margin-left: 15px;
+}
+
+nav ul {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+}
+
+.container-logo {
+    width: 100px;
+}
+
+.container-logo img {
+    width: 100%;
+}
+
+nav button {
+    color: black !important;
+    border-color: black !important;
+}
